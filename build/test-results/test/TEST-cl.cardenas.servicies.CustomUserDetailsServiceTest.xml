@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cl.cardenas.servicies.CustomUserDetailsServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-07-11T15:55:06" hostname="octavio" time="0.076">
+  <properties/>
+  <testcase name="loadUserByUsernameShouldReturnUserDetailsWhenUserExists()" classname="cl.cardenas.servicies.CustomUserDetailsServiceTest" time="0.045"/>
+  <testcase name="loadUserByUsernameShouldThrowExceptionWhenUserNotFound()" classname="cl.cardenas.servicies.CustomUserDetailsServiceTest" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
