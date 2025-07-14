@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="cl.cardenas.controllers.AuthControllerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-07-11T15:55:02" hostname="octavio" time="2.074">
+<testsuite name="cl.cardenas.controllers.AuthControllerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-07-14T14:35:13" hostname="octavio" time="1.017">
   <properties/>
-  <testcase name="testLoginValidCredentialsReturnsLoginResponse()" classname="cl.cardenas.controllers.AuthControllerTest" time="1.769"/>
-  <testcase name="testRegisterValidInputReturnsCreated()" classname="cl.cardenas.controllers.AuthControllerTest" time="0.174"/>
-  <testcase name="testRegisterInvalidEmailThrowsEmailNotMatchException()" classname="cl.cardenas.controllers.AuthControllerTest" time="0.041"/>
-  <testcase name="testRegisterInvalidPasswordThrowsInvalidPasswordException()" classname="cl.cardenas.controllers.AuthControllerTest" time="0.027"/>
+  <testcase name="testLoginValidCredentialsReturnsLoginResponse()" classname="cl.cardenas.controllers.AuthControllerTest" time="0.835"/>
+  <testcase name="testRegisterValidInputReturnsCreated()" classname="cl.cardenas.controllers.AuthControllerTest" time="0.104"/>
+  <testcase name="testRegisterInvalidEmailThrowsEmailNotMatchException()" classname="cl.cardenas.controllers.AuthControllerTest" time="0.023"/>
+  <testcase name="testRegisterInvalidPasswordThrowsInvalidPasswordException()" classname="cl.cardenas.controllers.AuthControllerTest" time="0.025"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
