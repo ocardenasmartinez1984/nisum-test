@@ -39,7 +39,7 @@ y **Spring Security**.
 ---
 
 ##  📷 Diagrama del proyecto
-- https://gitlab.com/ocardenasmartinez/nisum-test/-/blob/28c5b2bc013d8b489e819cab6581be6ccdec56bc/solution-diagram.jpg
+- https://github.com/ocardenasmartinez1984/nisum-test/blob/main/solution-diagram.jpg
 ---
 
 ## 🔧 Configuración
@@ -75,7 +75,7 @@ validation.password=.*_.*
 ## 📥 Clonar el repositorio
 
 ```bash
-git clone git@gitlab.com:ocardenasmartinez/nisum-test.git
+git clone https://github.com/ocardenasmartinez1984/nisum-test.git
 cd nisum-test
 ```
 ---
